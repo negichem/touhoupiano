@@ -2,6 +2,9 @@
 body{
   font-family: 'Noto Sans JP';
   margin: 0px;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
 }
 
 header{
