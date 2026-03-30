@@ -47,11 +47,11 @@ main{
          color: #000000;
        }
      }
-    .img1{
-         display: inline-block;
-         width: 500px:
-    }
   }
+}
+
+.img1{
+  width: 50%;
 }
 
 .profile{
