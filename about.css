@@ -38,6 +38,9 @@ main{
   h1{
     text-align: center;
   }
+  .img1{
+    width: 500px;
+  }
   p{
     display: inline-block;
     ul{
@@ -48,10 +51,6 @@ main{
        }
      }
   }
-}
-
-.img1{
-  width: 500px;
 }
 
 .profile{
