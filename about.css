@@ -37,11 +37,14 @@ main{
   margin-right: 50px;
 }
 
-.aboutme{
-    h1{
-      text-align: center;
-    }
+.aboutthis > h1{
+  text-align: center;
 }
+
+.aboutme > h1{
+  text-align: center;
+}
+
 .myphoto{
   display: flex;
   p{
